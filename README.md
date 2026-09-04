@@ -32,3 +32,10 @@ check your coverage for each procedure.
 
 But don't make the mistake of letting Claude do all the thinking. Ultimately,
 you're still the expert.
+
+**Credit where it's due**
+
+Special thanks to [John], who taught me (and continues to teach me) the ways of 
+AI. Much of this repo comes from standing on his shoulders.
+
+[John]: https://www.linkedin.com/in/john-mcguinness89/
